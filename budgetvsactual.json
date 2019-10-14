@@ -1,0 +1,392 @@
+[
+   {
+      "costcode":"1701014001",
+      "description":"Printer and scanner",
+      "totalbudget":13500,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014001",
+      "description":"Network equipment",
+      "totalbudget":18000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014001",
+      "description":"PC and laptop",
+      "totalbudget":39600,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014001",
+      "description":"Samsung S10 replacement for supervisors",
+      "totalbudget":7704,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014001",
+      "description":"Server / storage",
+      "totalbudget":18000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014001",
+      "description":"UPS",
+      "totalbudget":9000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014001",
+      "description":"iPhone 10 replacement for managers",
+      "totalbudget":8640,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Backup utility software",
+      "totalbudget":9000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Budget monitoring software linked to SUN System",
+      "totalbudget":45000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Maximo enhancement",
+      "totalbudget":63000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Review new Document management system",
+      "totalbudget":40500,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Upgrade MS Exchange 2010",
+      "totalbudget":27000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Upgrade PAS software",
+      "totalbudget":144000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701014002",
+      "description":"Upgrade Windows and MS Office",
+      "totalbudget":27000,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701021008",
+      "description":"Construction of additional Shelter at Ash disposal area",
+      "totalbudget":67500,
+      "totalactual":0
+   },
+   {
+      "costcode":"1701021008",
+      "description":"Improvement Building at Ash Disposal area",
+      "totalbudget":31500,
+      "totalactual":0
+   },
+   {
+      "costcode":"1772091001",
+      "description":"New building IMB license",
+      "totalbudget":7290,
+      "totalactual":0
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance : Anti Virus",
+      "totalbudget":7332.03,
+      "totalactual":7594.19
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance : Email Laundry,DuoSecurity,Airwatch",
+      "totalbudget":8248.53,
+      "totalactual":7944.56
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance : Maximo",
+      "totalbudget":54990.22,
+      "totalactual":0
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance : Oracle",
+      "totalbudget":5499.02,
+      "totalactual":0
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance : PAS (Production)",
+      "totalbudget":6415.52,
+      "totalactual":0
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance : Vmware,Veeam,Netcrunch,Mailstore,NitroPDF,etc",
+      "totalbudget":10998,
+      "totalactual":10530.58
+   },
+   {
+      "costcode":"530505",
+      "description":"Annual Maintenance Realta",
+      "totalbudget":9348.36,
+      "totalactual":10837.33
+   },
+   {
+      "costcode":"530505",
+      "description":"IT Service for cleaning printer and PC",
+      "totalbudget":5499.02,
+      "totalactual":0
+   },
+   {
+      "costcode":"530505",
+      "description":"IT Support Service",
+      "totalbudget":27495.12,
+      "totalactual":28205.1
+   },
+   {
+      "costcode":"530505",
+      "description":"PABX maintenance service",
+      "totalbudget":5499,
+      "totalactual":1332.92
+   },
+   {
+      "costcode":"530513",
+      "description":"Consultant for internal control",
+      "totalbudget":198999.96,
+      "totalactual":0
+   },
+   {
+      "costcode":"530655",
+      "description":"Leased line",
+      "totalbudget":69574.92,
+      "totalactual":38927.85
+   },
+   {
+      "costcode":"530703",
+      "description":"Personal Protective Equipment",
+      "totalbudget":1837.55,
+      "totalactual":108.81
+   },
+   {
+      "costcode":"532102",
+      "description":"IT News Memberships",
+      "totalbudget":219.45,
+      "totalactual":0
+   },
+   {
+      "costcode":"532104",
+      "description":"Copy Machine Service & Contract",
+      "totalbudget":53458.2,
+      "totalactual":41129.21
+   },
+   {
+      "costcode":"532601",
+      "description":"Computer accessories",
+      "totalbudget":1784,
+      "totalactual":4067.7
+   },
+   {
+      "costcode":"532601",
+      "description":"Network equipment",
+      "totalbudget":1784,
+      "totalactual":214.88
+   },
+   {
+      "costcode":"532601",
+      "description":"PABX + radio parts",
+      "totalbudget":1784,
+      "totalactual":3967.03
+   },
+   {
+      "costcode":"532601",
+      "description":"PC/Laptop parts",
+      "totalbudget":1784,
+      "totalactual":1466.19
+   },
+   {
+      "costcode":"532601",
+      "description":"Printer parts",
+      "totalbudget":1784,
+      "totalactual":260.15
+   },
+   {
+      "costcode":"532601",
+      "description":"Server's parts",
+      "totalbudget":1784,
+      "totalactual":2902.81
+   },
+   {
+      "costcode":"532601",
+      "description":"Smartphone",
+      "totalbudget":1338.01,
+      "totalactual":1787.16
+   },
+   {
+      "costcode":"532601",
+      "description":"Storage media (CD/DVD/Tape/Flashdisk)",
+      "totalbudget":1784,
+      "totalactual":0
+   },
+   {
+      "costcode":"532601",
+      "description":"Tool for computer maintenance",
+      "totalbudget":892.04,
+      "totalactual":46.93
+   },
+   {
+      "costcode":"532602",
+      "description":"Programming tools",
+      "totalbudget":896.32,
+      "totalactual":0
+   },
+   {
+      "costcode":"532602",
+      "description":"Utility softwares",
+      "totalbudget":1792.64,
+      "totalactual":258.07
+   },
+   {
+      "costcode":"532603",
+      "description":"LAN / PABX / Radio maintenance",
+      "totalbudget":4455.66,
+      "totalactual":3403.89
+   },
+   {
+      "costcode":"532603",
+      "description":"Printer / scanner maintenance",
+      "totalbudget":4455.66,
+      "totalactual":2033
+   },
+   {
+      "costcode":"532603",
+      "description":"Server / PC / laptop maintenance",
+      "totalbudget":4455.66,
+      "totalactual":7012.63
+   },
+   {
+      "costcode":"532801",
+      "description":"Attending meeting at PE Jakarta",
+      "totalbudget":1336.44,
+      "totalactual":0
+   },
+   {
+      "costcode":"532801",
+      "description":"Certified IT Professional (Andry)",
+      "totalbudget":445.48,
+      "totalactual":0
+   },
+   {
+      "costcode":"532801",
+      "description":"Certified network engineer - CCNA (Yanto,Wahyu)",
+      "totalbudget":890.96,
+      "totalactual":0
+   },
+   {
+      "costcode":"532801",
+      "description":"Database administration - Oracle certification (Wira,Danang), IT Security (Sidik)",
+      "totalbudget":1336.44,
+      "totalactual":0
+   },
+   {
+      "costcode":"532801",
+      "description":"IT Service Management - BNSP cestification (Deka)",
+      "totalbudget":445.48,
+      "totalactual":0
+   },
+   {
+      "costcode":"532801",
+      "description":"MS Exchange 2016 - MCSA certification (Dina)",
+      "totalbudget":445.48,
+      "totalactual":0
+   },
+   {
+      "costcode":"532803",
+      "description":"Attending meeting at PE Jakarta",
+      "totalbudget":2672.91,
+      "totalactual":0
+   },
+   {
+      "costcode":"532803",
+      "description":"Certified IT Professional (Andry)",
+      "totalbudget":890.97,
+      "totalactual":0
+   },
+   {
+      "costcode":"532803",
+      "description":"Certified network engineer - CCNA (Yanto,Wahyu)",
+      "totalbudget":1781.94,
+      "totalactual":0
+   },
+   {
+      "costcode":"532803",
+      "description":"Database administration - Oracle certification (Wira,Danang), IT Security (Sidik)",
+      "totalbudget":2672.91,
+      "totalactual":0
+   },
+   {
+      "costcode":"532803",
+      "description":"IT Service Management - BNSP cestification (Deka)",
+      "totalbudget":890.97,
+      "totalactual":0
+   },
+   {
+      "costcode":"532803",
+      "description":"MS Exchange 2016 - MCSA certification (Dina)",
+      "totalbudget":890.97,
+      "totalactual":0
+   },
+   {
+      "costcode":"532804",
+      "description":"Vendor visit",
+      "totalbudget":1069.2,
+      "totalactual":0
+   },
+   {
+      "costcode":"532805",
+      "description":"Attending meeting at PE Jakarta",
+      "totalbudget":1336.44,
+      "totalactual":0
+   },
+   {
+      "costcode":"532805",
+      "description":"Certified IT Professional (Andry)",
+      "totalbudget":445.48,
+      "totalactual":0
+   },
+   {
+      "costcode":"532805",
+      "description":"Certified network engineer - CCNA (Yanto,Wahyu)",
+      "totalbudget":890.96,
+      "totalactual":0
+   },
+   {
+      "costcode":"532805",
+      "description":"Database administration - Oracle certification (Wira,Danang), IT Security (Sidik)",
+      "totalbudget":1336.44,
+      "totalactual":0
+   },
+   {
+      "costcode":"532805",
+      "description":"IT Service Management - BNSP cestification (Deka)",
+      "totalbudget":445.48,
+      "totalactual":0
+   },
+   {
+      "costcode":"532805",
+      "description":"MS Exchange 2016 - MCSA certification (Dina)",
+      "totalbudget":445.48,
+      "totalactual":0
+   }
+]
